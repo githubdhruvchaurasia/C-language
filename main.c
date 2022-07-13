@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main(){
-    printf("Hello World");
+int main()
+{
+    printf("Dhruv Chaurasia \n SRMU \n ");
+
     return 0;
 }
